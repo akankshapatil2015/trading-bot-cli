@@ -54,8 +54,8 @@ trading_bot/
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd trading_bot
+git clone https://github.com/akankshapatil2015/trading-bot-cli.git
+cd trading-bot-cli
 ```
 
 ### 2. Create a virtual environment
